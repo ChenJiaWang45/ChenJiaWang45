@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🤔This is a reading file. There's nothing in it now, 
+  but there will be in the future.😄
 <!--
 **ChenJiaWang45/ChenJiaWang45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 你 好
 🤔这是一个阅读文件，现在没有东西
   但是以后会有😄
